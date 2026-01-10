@@ -53,4 +53,4 @@ Or access the online demo here: [Live Demo](https://srivatsan2007.github.io/)
 
 ---
 
-Made with ❤️ by **Amine Hamzaoui**
+Made with ❤️ by **Srivatsan R**
