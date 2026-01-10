@@ -9,7 +9,7 @@ The website features smooth animations, typing effects, responsive design, and a
 
 ## 🔗 Live Demo
 You can preview the portfolio locally by opening `index.html` in a modern browser.  
-Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
+Or access the online demo here: [Live Demo](https://srivatsan2007.github.io/)
 
 ---
 
@@ -38,18 +38,18 @@ Or access the online demo here: [Live Demo](https://saboo24.github.io/Sabo/)
 
 1. **Clone this repository**
    ```bash
-   git clone https://github.com/Saboo24/Sabo.git
-   cd Sabo
+   git clone https://github.com/srivatsan2007/My-PortFolio
+   cd Srivatsan2007
    
 ---
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
-- LinkedIn: [LinkedIn](www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- Email: srivatsanr9h13@gmail.com   
+- Location: Tamil Nadu, India  
+- LinkedIn: [LinkedIn](www.linkedin.com/in/srivatsan-r-52b235381)  
+- GitHub: [GitHub](https://github.com/srivatsan2007)  
+- Instagram: [Instagram](https://www.instagram.com/_.iyy_.2007/?utm_source=ig_web_button_share_sheet)
 
 ---
 
